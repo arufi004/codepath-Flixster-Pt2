@@ -27,9 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+https://github.com/arufi004/codepath-Flixster-Pt2/assets/114187227/2305fa02-6d39-408f-b4fc-70de045f904a
+
+
 
 ## Notes
 
